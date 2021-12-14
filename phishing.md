@@ -13,3 +13,4 @@
 |PhishStats| https://phishstats.info/|
 |PhishTank| https://www.phishtank.com/|
 |urlscan.io|https://urlscan.io/|
+|StalkPhish.io|https://www.stalkphish.io/|
